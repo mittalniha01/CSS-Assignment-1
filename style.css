@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+h3{
+    font-style: italic;
+    color: red;
+}
+ol,ul{
+    color:rgb(156, 47, 132);
+}
+#box{
+    text-decoration: line-through;
+}
+.main{
+    background-color: yellow;
+}
+div{
+    letter-spacing: 7px;
+}
+p{
+    color: brown;
+}
